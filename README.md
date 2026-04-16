@@ -1,2 +1,5 @@
-# ostora-m3u8-proxy
-تحويل روابط Ostora إلى M3U8 قياسي 
+# 🚀 Ostora to M3U8 Proxy
+
+تحويل روابط Ostora غير القياسية إلى M3U8 عادي.
+
+## 📌 الرابط بعد النشرتحويل روابط Ostora إلى M3U8 قياسي 
