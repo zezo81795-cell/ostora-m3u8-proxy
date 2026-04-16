@@ -3,8 +3,7 @@
 تحويل روابط Ostora غير القياسية إلى M3U8 عادي.
 
 ## 📌 الرابط بعد النشرتحويل روابط Ostora إلى M3U8 قياسي 
-https://ostora-converter.your-subdomain.workers.dev/play.m3u8?quality=720
-
+https://ostora-converter.ahmedabdelaziz7070663.workers.dev/
 ## 🎯 معاملات الجودة
 - `?quality=180` → دقة 320x180
 - `?quality=360` → دقة 640x360  
